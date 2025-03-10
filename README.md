@@ -48,9 +48,3 @@
 - [PostgreSQL 공식 문서](https://www.postgresql.org/docs/)
 - [MongoDB 공식 문서](https://www.mongodb.com/docs/)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
-
----
-
-## 📢 업데이트 로그
-- 2025-03-10: 초기 폴더 구성
-- 새로운 예제 및 실습 프로젝트 지속 추가 예정
